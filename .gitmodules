@@ -1,0 +1,3 @@
+[submodule "PORTECH_back"]
+	path = PORTECH_back
+	url = git@github.com:Yuma-Tsukakoshi/PORTECH_back.git
