@@ -7,6 +7,6 @@ PORTFOLIO + TECH => Portech
 - TypeScript
 - taiwind.css
 
-設計構造　⇒　poleyrepo  
+設計構造⇒poleyrepo  
 submodule 
 
